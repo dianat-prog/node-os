@@ -1,0 +1,11 @@
+{
+  "name": "os",
+  "version": "1.0.0",
+  "description": "**Objetivo:** \r Crear un programa en Node.js que imprima información sobre el sistema operativo y las interfaces de red, utilizando el patrón de diseño modular.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
